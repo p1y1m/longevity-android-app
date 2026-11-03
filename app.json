@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Longevity",
+    "slug": "longevity",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "longevity",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.portfolio.longevity",
+      "adaptiveIcon": {
+        "backgroundColor": "#070B14"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "backgroundColor": "#070B14"
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
