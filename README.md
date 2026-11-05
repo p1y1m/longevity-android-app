@@ -1,4 +1,4 @@
-# Longevity
+# Longevity Android App
 
 Longevity is a portfolio-quality health analytics MVP built with React Native, Expo SDK 57, Expo Router, and TypeScript. It combines realistic demonstration data with an interactive score, trend exploration, habit tracking, health insights, and editable goals.
 
