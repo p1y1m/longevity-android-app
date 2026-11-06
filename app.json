@@ -2,12 +2,13 @@
   "expo": {
     "name": "Longevity Android App",
     "slug": "longevity",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "scheme": "longevity",
     "userInterfaceStyle": "dark",
     "android": {
       "package": "com.portfolio.longevity",
+      "versionCode": 2,
       "adaptiveIcon": {
         "backgroundColor": "#070B14"
       }
