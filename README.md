@@ -1,5 +1,7 @@
 # Longevity Android App
 
+## Author: Pedro Yanez Melendez
+
 Longevity is a portfolio-quality health analytics MVP built with React Native, Expo SDK 57, Expo Router, and TypeScript. It combines realistic demonstration data with an interactive score, trend exploration, habit tracking, health insights, and editable goals.
 
 > The Longevity Score and all health data in this app are fictional demonstrations. The score is not clinically validated, and the app does not provide medical advice.
